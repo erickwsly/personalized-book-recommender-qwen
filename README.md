@@ -4,7 +4,7 @@ A prompt engineering experiment using a local Qwen3 4B model through LM Studio t
 
 ## Objective
 
-The goal of this project was to compare a simple prompt with a structured and personalized prompt and evaluate how additional context affects the quality and relevance of AI-generated recommendations.
+The goal of this project was to compare a simple prompt with a structured and personalized prompt and observe how additional context affects the relevance and format of AI-generated recommendations.
 
 ## Technologies
 
