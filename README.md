@@ -107,6 +107,15 @@ The experiment demonstrated that prompt specificity can significantly change the
 
 ![Reusable Template](screenshots/04-reusable-template.png)
 
+## What This Project Demonstrates
+
+- Designing structured prompts for LLMs
+- Providing contextual information to improve AI outputs
+- Creating reusable prompt templates
+- Running AI models locally with LM Studio
+- Documenting and comparing AI experiments
+- Validating AI-generated information
+
 ## Key Learnings
 
 - Prompt specificity improves the relevance of AI responses.
